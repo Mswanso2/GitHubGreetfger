@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="githubgreeter.GitHubGreeterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-03T23:04:13" hostname="jimE-XPS-13-9360" time="0.067">
+  <properties/>
+  <testcase name="testWelcome()" classname="githubgreeter.GitHubGreeterTest" time="0.058"/>
+  <testcase name="instantiation()" classname="githubgreeter.GitHubGreeterTest" time="0.003"/>
+  <testcase name="testWishes()" classname="githubgreeter.GitHubGreeterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
