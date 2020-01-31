@@ -15,7 +15,7 @@ public class Main{
     String nametest = welcome("Mike");
     String wishtest = wishes();
     System.out.println(nametest + " " + wishtest);
-
+  // testtttt
 
   }
 
